@@ -1,0 +1,5 @@
+.source .c {
+    color: #777777;
+    font-style: italic;
+    /* Styling for comments within a source block */
+}
